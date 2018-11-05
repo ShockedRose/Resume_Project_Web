@@ -1,0 +1,1 @@
+Create a page with a resume template that can add the values dynamically  (photo, desciption, IDs, skills, strengths and a Custom image for the background as a watermark with low opacity) 
